@@ -24,7 +24,7 @@
 
 ## 注意
 
-节点优选IP工具下载地址 https://chenhun88.com
+节点优选IP工具[下载地址]https://chenhun.lanzous.com/b01o8y1sh)
 
 WebSocket 路径为 `/`。
 
@@ -34,4 +34,5 @@ V2Ray 将在部署时自动安装最新版本。
 
 **出于安全考量，除非使用 CDN，否则请不要使用自定义域名，而使用 Heroku 分配的二级域名，以实现 V2Ray Websocket + TLS。**
 
-## CF反代脚本地址  https://chenhun88.com
+## CF反代脚本
+地址  https://chenhun88.com[在线预览](https://drive.google.com/file/d/1DVKOxQQBJBNAmCDb0exkVTUQUdHyHHCz/view?usp=sharing)
